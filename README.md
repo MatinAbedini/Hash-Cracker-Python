@@ -1,16 +1,9 @@
 # Hash-Cracker-Python
 
-Hello and welcome,
-This script is for un hashin teh hasshed codes.
+## An old python project used for cracking hashes.
 
-How it work !?
-This script need to a wordlist, the script hash the wordlist word and check if the hasshed as chosed word as print that word.!
+This script needs a passwordlist because the script hashes passwords in passwordlist and check if the hasshed password is same as entered hash!
 
-How to run !?
+## How to run
 you can run the main.py with python .
 
-What happed when you ran it !?
-First it will print the helping message and logo second you need to enter the hasshed word third you need to chose one of the printed types then you need to enter the wordlist location at the last it will print the un hashed word
-
-The End of README.TXT, Godbye:
-by Matin Abedini
