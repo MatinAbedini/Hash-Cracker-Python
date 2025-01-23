@@ -1,5 +1,3 @@
-
-# In the name of GOD
 # Hash-Cracker-Python
 
 Hello and welcome,
@@ -13,10 +11,6 @@ you can run the main.py with python .
 
 What happed when you ran it !?
 First it will print the helping message and logo second you need to enter the hasshed word third you need to chose one of the printed types then you need to enter the wordlist location at the last it will print the un hashed word
-
-What about errors and bugs !?
-I try to fix all of the bugs, but every application has some bug, also i try some codes to this script come out with out any errors
-
 
 The End of README.TXT, Godbye:
 by Matin Abedini
